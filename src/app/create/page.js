@@ -1,4 +1,4 @@
-
+"use client"
 import TodoList from "@/components/TodoList";
 
 const Todo = async () => {
